@@ -11,10 +11,9 @@ I'm currently studying as a Software Engineering at [Telkom University](https://
 - 🌱 Checkout my product [Absensi Pintar](https://jabarkoperasi.com/)
 - 💬 Feel free to contribute with me
 
----
 <!--
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=zinct&show_icons=true&theme=light" width = 400>
-  <!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=zinct&theme=light&hide_border=true" width = 400> -->
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=zinct&theme=light&hide_border=true" width = 400>
 </p>
 -->
